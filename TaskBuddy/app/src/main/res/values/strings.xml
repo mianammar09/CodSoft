@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TaskBuddy</string>
+    <string name="task_updated">Task Updated</string>
+</resources>
